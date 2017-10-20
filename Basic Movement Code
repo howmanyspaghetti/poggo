@@ -1,0 +1,4 @@
+Key Down Left: x-=5
+Key Down Right: x+=5
+Key Down Up: y-=5
+Key Down Down: y+=5
